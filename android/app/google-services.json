@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334368460576",
+    "project_id": "watinpluss",
+    "storage_bucket": "watinpluss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334368460576:android:f74b0ee44a26d2e56a1145",
+        "android_client_info": {
+          "package_name": "com.example.watinplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334368460576-c9c11fo7hb151thlca5bg7tsbnt0cp09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd34phmWqqTrocbXgwgyXpeJK9OKleups"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334368460576-c9c11fo7hb151thlca5bg7tsbnt0cp09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

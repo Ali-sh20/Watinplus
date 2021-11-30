@@ -1,0 +1,277 @@
+{
+  "Art2_1": "منصة وتين",
+  "Art2_2": "للخدمات التسويقية",
+  "Art2_3": "لدعم المشاريع الصغيرة والكبيرة التي تحتوي\nعلى أفكار تسويقية متنوعة",
+  "Art2_4": "وتيــــــن بلـــــــس تقدم لعملائها الخدمات\nالتسويقية والاعلانية بالصورة المتكاملة\nبالشكل الاحترافي،مما يضمن لك زيادة\nفي المبيعات والعملاء في وقت قياسي",
+  "skip": "تخطي",
+  "start": "ابدأ",
+  "Art3_user": "مستخدم مسجل",
+  "Art3_project": "مشاريع قيد التنفيذ",
+  "Art3_team": "عدد فريق\n عمل وتين",
+  "Art4_1": "نحن نقدم العديد من الخدمات\nالتي تساعدك على نمو اعمالك",
+  "Art4_2": "يمكننا انجاز 99% من اعمالك وإدارة مشاريعك الخاصة\nفي المجالات التالية",
+  "Art4_design": "التصميم",
+  "Art4_marketing": "التسويق",
+  "Art4_content": "المحتوى",
+  "Art4_video": "الفيديو",
+  "Art4_programing": "البرمجة",
+  "Art4_administration": "الإدارة",
+  "Art4_engineering": "الهندسة",
+  "Art5_SignIn": "تسجيل الدخول",
+  "Art5_SignUp": "إنشاء حساب",
+  "Art5_Welcome": "أهلا بك في وتين بلس",
+  "Art5_started": "هيا بنا نبدأ",
+  "Art5_Username": "اسم المستخدم",
+  "Art5_mobileNumber": "رقم الهاتف",
+  "Art5_Email": "البريد الإلكتروني",
+  "Art5_Password": "كلمة المرور",
+  "Art5_City": "المدينة",
+  "Art5_NEXT": "التالي",
+  "Art6_Congratulations": "تهانينا!",
+  "Art6_Congratulations2": "تم التحقق من رقم هاتفك المحمول\n ناجح! يمكنك الآن الاستمرار\nفي استخدام تطبيق وتين بلس",
+  "Art6_LATER":"لاحقا",
+  "Art7_SignWATINPLUS":"سجّل الدخول إلى وتين بلس",
+  "Art7_Enter":"أدخل بريدك الإلكتروني وكلمة المرور",
+  "Art7_Forgot":"نسيت كلمة المرور؟",
+  "Art7_SignIn": "تسجيل الدخول",
+  "ArtHome_main": "الرئيسية",
+  "ArtHome_received": "الوارد",
+
+  "ArtHome_business": "الأعمال",
+  "ArtHome_profiles": "ملفي",
+
+  "Art8_departments": "الأقسام",
+  "Art8_Browse": "تصفح الأعمال حسب الأقسام",
+  "Art8_departmentsDesign": "التصميم",
+  "Art8_departmentsMarketing": "التسويق",
+  "Art8_departmentsContent": "المحتوى",
+  "Art8_departmentsVideo": "الفيديو",
+  "Art8_departmentsProgramming": "البرمجة",
+  "Art8_departmentsAdministration": "الإدارة",
+  "Art8_departmentsEngineering": "الهندسة",
+  "drawer_name": "محمود أبو دقن",
+  "drawer_country": "فلسطين",
+  "drawer_city": "غزة",
+  "drawer_profile": "الملف الشخصي",
+  "drawer_TechnicalSupport": "الدعم الفني",
+  "drawer_Settings": "الإعدادات",
+  "drawer_ConfirmLogOut": "هل أنت متأكد من تسجيل خروج ؟",
+  "drawer_LogOut": "تسجيل خروج",
+  "drawer_Back": "تراجع",
+  "drawer_About": "عن المنصة",
+  "drawer_Tips": "إرشادات ونصائح",
+  "drawer_SuccessPartners": "شركاء النجاح",
+  "Art12_talks": "محادثات",
+  "Art12_invitation": "دعوات",
+  "Art12_1": "جميع الدعوات الواردة",
+  "Art12_2": "ستجدها في هذا الملف",
+  "Art12_3": "لا يوجد دعوات بعد",
+  "Art13_1": "لا يوجد أعمال",
+  "Art13_declared": "معلنة",
+  "Art13_active": "نشطة",
+  "Art13_completed": "مكتملة",
+  "Art14_dateOfRegistration": "تاريخ التسجيل",
+  "Art14_date": "27 فبراير 2021",
+  "Art14_addDep": "الأقسام المضافة",
+  "Art14_nameDep": "اسم القسم",
+  "Art14_numPlane": "عدد الخطط",
+  "Art14_numTask": "عدد المهام",
+  "Art14_amount": "المبلغ",
+  "Art14_CompletedPlans2": "مهام قيد الانتظار",
+  "Art14_TasksInProgress": "مهام قيد التنفيذ",
+  "Art14_TasksUnderReview": "مهام قيد المراجعة",
+  "Art14_PendingTasks": "مهام منجزة",
+  "Art14_monthlyPlanFlowChart": "مخطط سير الخطط الشهرية",
+  "Art14_newMessages": "الرسائل الجديدة",
+  "Art14_IncomingMessages": "الرسائل الواردة",
+  "Art14_plan": "الخطط",
+  "Art14_addPlane": "أضف خطة جديدة",
+  "Art16_perInfo": "المعلومات الشخصية",
+  "Art16_accSet": "إعدادات الحساب",
+  "Art17_personal": "المعلومات الشخصية",
+  "Art17_fullName": "محمود ماجد أبو دقن",
+  "Art17_birthDate": "18 - مايو - 1994",
+  "Art17_userName": "اسم الحساب",
+  "Art17_fullNames": "الاسم الكامل",
+  "Art17_sex": "الجنس",
+  "Art17_sexM": "ذكر",
+  "Art17_sexF": "أنثى",
+  "Art17_SocialStatus": "الحالة الاجتماعية",
+  "Art17_SocialStatusSingle": "أعزب",
+  "Art17_SocialStatusMarried": "متزوج",
+  "Art17_dateOfBirth": "تاريخ الميلاد",
+  "Art17_city": "المدينة",
+  "Art17_country": "الدولة",
+  "Art17_aboutJob": "عن العمل",
+  "Art17_company": "شركة",
+  "Art17_individualWork": "عمل فردي",
+  "Art18_language": "اللغة",
+  "Art18_languageAr": "العربية",
+  "Art18_languageEn": "English",
+  "Art19_about": "نخبة من أفضل المصممين والمبرمجين\n\n والتسويق بالمحتوى نعمل لأكثر من 5سنوات\n\nمن الابداع والتميز في عالم ريادة الأعمال في\n\nوقتنا الحالي في العالم المحلي والعالمي",
+  "Art18_communication": "تواصل معنا",
+  "Art18_Payment": "وسائل الدفع المتاحة",
+  "Art20_Tips": "نصائح وتين",
+  "Art20_Tips1": "عند اختيار الاسم التجاري ان الاسماء\nالتجارية تلعب دور رئيسي في نجاح أو\nفشل العلامات التجارية لذا لا يمكن التهاون\nباختيار الاسم التجاري بشكل عشوائي ، او\nأي اسم يجول في خاطرك ولابد من التفكير\nالعميق والتخطيط المنظم",
+  "Art20_Tips2": "عند اختيار شعار الشركة الخاصة بك ان العنصر\nالبصري لدى الإنسان له تأثير كبير وفعال\nايضا في ذاكرته ، أكثر من العناصر الأخرى\nكالسمع والشم واللمس وغيرها",
+  "Art20_more": "أقرأ المزيد",
+  "Art20_less": "الأقل",
+  "Art21_customerReviews": "آراء العملاء",
+  "Art21_Trusted": "موثوق به من قبل الآلاف من العملاء السعداء",
+  "Art21_review": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد تم|\nتوليد هذا النص من مولد النص العربى\nحيث يمكنك",
+  "Art22_LogoDesignT": "تصميم شعارات",
+  "Art22_LogoDesignS": "تصميم الشعارات والعلامات التجارية",
+  "Art22_businessIdentityT": "الهوية التجارية",
+  "Art22_businessIdentityS": "تصميم المطبوعات والهوية التجارية",
+  "Art22_socialMDesignsT": "تصاميم سوشيال ميديا",
+  "Art22_socialMDesignsS": "تصميم الشعارات والعلامات التجارية",
+  "Art22_ProfileSettingT": "إعداد بروفايل",
+  "Art22_ProfileSettingS": "تصميم العروض التقديمية للشركات",
+  "Art22_cartoonsT": "رسوم كرتون",
+  "Art22_cartoonsS": "رسم المشاهد والشخصيات",
+  "Art22_UIUXDesignT": "تصميم واجهات",
+  "Art22_UIUXDesignS": "تصميم واجهات المواقع والتطبيقات",
+  "Art23_planMarketingT": "الخطط التسويقية",
+  "Art23_planMarketingS": "بناء الخطط التسويقية و الاستراتيجيات",
+  "Art23_SearchT": "تحسين محركات البحث",
+  "Art23_SearchS": "اعداد وتحليل الكلمات المفتاحية",
+  "Art23_SocialMediaT": "إعلانات مواقع التواصل",
+  "Art23_SocialMediaS": "ادارة الحملات الاعلانات في مواقع التواصل",
+  "Art23_MarketingAdviceT": "استشارة تسويقية",
+  "Art23_MarketingAdviceS": "استشارات خاصة في تسويق المشاريع",
+  "Art23_SocialMediaManagementS": "ادارة المنصات الاجتماعية",
+  "Art23_WebsiteAnalysisT": "تحليل المواقع الكترونية",
+  "Art23_WebsiteAnalysisS": "احصائيات وتحليل المواقع الكترونية",
+
+  "Art24_SocialMediaContentT": "محتوى سوشال ميديا",
+  "Art24_SocialMediaContentS": " كتابة محتوى مواقع التواصل الاجتماعي",
+  "Art24_ScriptWritingT": "كتابة سيناريو",
+  "Art24_ScriptWritingS": "كتابة سيناريو إعلانات و الفيديوهات",
+  "Art24_bloggingT": "كتابة مدونات",
+  "Art24_bloggingS": "انشاء مدونات تجارية و أخبار",
+  "Art24_WritingBusinessArticlesT": "كتابة مقالات أعمال",
+  "Art24_WritingBusinessArticlesS": "كتابة المقالات و التقارير للأعمال",
+  "Art24_corporateProfileT": "بروفايل للشركات",
+  "Art24_corporateProfileS": "كتابة ملفات تعريفية للشركات",
+  "Art24_TranslationT": "الترجمة",
+  "Art24_TranslationS": "الترجمة بلغات متعددة",
+
+  "Art25_WhiteboardT": "وايت بورد",
+
+  "Art25_VideoProducerT": "منتاج فيديو",
+
+  "Art25_MotionGraphicsT": "موشن جرافيك",
+  "Art25_MotionGraphicsS": "انشاء فيديو موشن جرافيك",
+
+  "Art25_AudioCommentaryT": "تعليق الصوتي",
+
+  "Art25_EditVideoT": "تحرير فيديو",
+  "Art25_EditVideoS": "تعديل فيديو سابق",
+
+  "Art25_introT": "انترو",
+  "Art25_introS": "انتاج مقدمات (تحريك شعار)",
+
+  "Art26_MobileAppsT": "تطيبقات هواتف",
+  "Art26_MobileAppsS": "تطيبقات الهواتف الذكية",
+
+  "Art26_WebsitesT": "المواقع والمتاجر",
+  "Art26_WebsitesS": "برمجة المواقع و المتاجر بجميع لغات البرمجة",
+
+  "Art26_IntroductorySitesT": "المواقع التعريفية",
+  "Art26_IntroductorySitesS": "انشاء مواقع الشركات و الشخصية",
+
+  "Art26_serversT": "سيرفرات",
+  "Art26_serversS": "ضبط وتعديل سيرفرات المواقع",
+
+  "Art26_blogsT": "مدونات",
+  "Art26_blogsS": "انشاء مدونات إلكترونية",
+
+  "Art26_ModificationsT": "تعديلات وتحسين",
+  "Art26_ModificationsS": "تعديل وإصلاح الأعطال",
+
+  "Art28_managementAdviceT": "استشارة إدارية",
+
+  "Art28_businessPlanT": "خطة عمال",
+  "Art28_businessPlanS": "تطوير المشاريع والأعمال",
+
+  "Art28_FeasibilityStudyT": "دراسة جدوى",
+  "Art28_FeasibilityStudyS": "دراسة جدوى لمشاريع ناشئة",
+
+
+  "Art28_DataEntryT": "ادخال البيانات",
+  "Art28_DataEntryS": "المساعدات الإدارية وإدخال البيانات",
+
+
+  "Art28_FinancialServicesT": "خدمات مالية",
+  "Art28_FinancialServicesS": "التدقيق المحاسبي والخطط المالية",
+
+
+
+  "Art28_scientificResearchT": "بحث علمي",
+
+
+  "Art29_InteriorDesignT": "تصميم ديكور داخلي",
+
+
+  "Art29_ExteriorDesignT": "تصميم ديكور خارجي",
+
+
+  "Art29_workPlansT": "مخططات عمل",
+  "Art29_workPlansS": "رسم المخططات الهندسية والمعمارية",
+
+
+  "Art30_providerT": "نحن نقدم دعمًا متميزًا وحلولاً فعالة",
+
+
+  "Art30_HelpT": "المساعدة و التوثيق",
+  "Art30_HelpS": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+
+
+  "Art30_supportT": "المجتمع و الدعم",
+  "Art30_supportS": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+
+
+  "Art30_DeveloperT": "المطور و الموارد",
+  "Art30_DeveloperS": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+
+
+  "Art30_HelpS2": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+  "Art30_supportS2": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+  "Art30_DeveloperS2": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+
+  "Art30_NoSolutionT": "لم يتم العثور على حل؟",
+  "Art30_NoSolutionS": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+
+  "Art30_helpPage": "انتقل إلى صفحة المساعدة",
+
+  "Art30_knowledgeBaseT": "قاعدة المعرفة",
+  "Art30_knowledgeBaseS": "هذا النص هو مثال لنص يمكن أن\nيستبدل في نفس المساحة، لقد\nتم توليد هذا النص من مولد\nالنص العربى، حيث يمكنك أن\nتولد مثل هذا النص أو العديد\nمن النصوص",
+
+  "Art30_helpPage2": "صفحة المساعدة",
+
+  "Art30_problemTitle": "عنوان المشكلة",
+
+  "Art30_WriteProblemTitle": "اكتب العنوان باختصار",
+
+  "Art30_ProblemDetails": "تفاصيل المشكلة",
+
+  "Art30_writeProblem": "اكتب المشكلة",
+
+  "Art30_disclaimer": "تنويه هام جدا جدا جدا: هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة. لقد تم",
+
+  "Art30_sendRequest": "إرسال الطلب",
+
+  "Ok": "موافق",
+
+  "ChooseTheSection": "اختر القسم",
+  "PleaseChooseTheSection": "من فضلك اختر القسم",
+  "Art13_NameProject": "اسم المشروع :",
+  "Art13_DepProject": "القسم :",
+  "Art13_budgetProject": "ميزانية المشروع :",
+  "Art13_DateProject": "تاريخ البدء :",
+  "Art12_1_titlecard": "وتين بلس",
+  "Art12_1_subtitlecard": "اهلاً وسهلاً بك في وتين بلس"
+
+
+
+}

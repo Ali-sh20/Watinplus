@@ -1,0 +1,275 @@
+{
+  "Art2_1": "Wateen Platform",
+  "Art2_2": "Marketing Services",
+  "Art2_3": "To support small and large projects that contain\n a variety of marketing ideas",
+  "Art2_4": "Wateen Plus offers its clients services\nMarketing and advertising in an integrated way\nin a professional manner, ensuring that you increase\nIn sales and customers in record time",
+  "skip": "skip",
+  "start": "start",
+  "Art3_user": "Registered User",
+  "Art3_project": "Projects in progress",
+  "Art3_team": "Number of work team",
+  "Art4_1": "We provide many services\nthat help you grow your business",
+  "Art4_2": "We can complete 99% of your business and manage your own projects\nin the following areas",
+  "Art4_design": "Design",
+  "Art4_marketing": "Marketing",
+  "Art4_content": "Content",
+  "Art4_video": "Video",
+  "Art4_programing": "Programming",
+  "Art4_administration": "Administration",
+  "Art4_engineering": "Engineering",
+  "Art5_SignIn": "Sign in",
+  "Art5_SignUp": "Sign up",
+  "Art5_Welcome": "Welcome to WATINPLUS",
+  "Art5_started": "Let’s get started",
+  "Art5_Username": "Username",
+  "Art5_mobileNumber": "Your mobile number",
+  "Art5_Email": "Email",
+  "Art5_Password": "Password",
+  "Art5_City": "City",
+  "Art5_NEXT": "NEXT",
+  "Art6_Congratulations": "Congratulations!",
+  "Art6_Congratulations2": "Your mobile number verified\nsuccessfull! You can now continue\nusing WATINPLUS App",
+  "Art6_LATER":"LATER",
+  "Art7_SignWATINPLUS":"Sign in to WATINPLUS",
+  "Art7_Enter":"Enter email & password to continue",
+  "Art7_Forgot":"Forgot password?",
+  "Art7_SignIn": "SIGN IN",
+  "ArtHome_main": "Main",
+  "ArtHome_received": "Received",
+
+  "ArtHome_business": "Business",
+  "ArtHome_profiles": "Profile",
+
+  "Art8_departments": "Departments",
+  "Art8_Browse": "Browse businesses by departments",
+  "Art8_departmentsDesign": "Design",
+  "Art8_departmentsMarketing": "Marketing",
+  "Art8_departmentsContent": "Content",
+  "Art8_departmentsVideo": "Video",
+  "Art8_departmentsProgramming": "Programming",
+  "Art8_departmentsAdministration": "Administration",
+  "Art8_departmentsEngineering": "Engineering",
+  "drawer_name": "Mahmoud Abu Dguen",
+  "drawer_country": "Palestine",
+  "drawer_city": "Gaza",
+  "drawer_profile": "Profile",
+  "drawer_TechnicalSupport": "Technical support",
+  "drawer_Settings": "Settings",
+  "drawer_ConfirmLogOut": "Are you sure to log out?",
+  "drawer_LogOut": "Log Out",
+  "drawer_Back": "Back",
+  "drawer_About": "About The Podium",
+  "drawer_Tips": "Tips And Tricks",
+  "drawer_SuccessPartners": "Success Partners",
+  "Art12_talks": "Chats",
+  "Art12_invitation": "Invitation",
+  "Art12_1": "All invitations to messages",
+  "Art12_2": "You will find it in this file",
+  "Art12_3": "There are no invitations yet",
+  "Art13_declared": "Declared",
+  "Art13_active": "Active",
+  "Art13_completed": "Completed",
+  "Art13_1": "There are no works",
+  "Art14_dateOfRegistration": "Date of registration",
+  "Art14_date": "Feb 27, 2021",
+  "Art14_addDep": "Added sections",
+  "Art14_nameDep": "Departments",
+  "Art14_numPlane": "plans",
+  "Art14_numTask": "task",
+  "Art14_amount": "Amount",
+
+  "Art14_CompletedPlans2": "Pending tasks",
+  "Art14_TasksInProgress": "Tasks In Progress",
+  "Art14_TasksUnderReview": "Tasks Under Review",
+  "Art14_PendingTasks": "Completed tasks",
+
+
+  "Art14_monthlyPlanFlowChart": "Monthly plan flow chart",
+  "Art14_newMessages": "New Messages",
+  "Art14_IncomingMessages": "Incoming Messages",
+  "Art14_plan": "Plans",
+  "Art14_addPlane": "Add a new plan",
+  "Art16_perInfo": "personal Information",
+  "Art16_accSet": "Account Settings",
+  "Art17_personal": "personal information",
+  "Art17_fullName": "Mahmoud Majed Abu Digne",
+  "Art17_birthDate": "18 - May - 1994",
+  "Art17_userName": "User Name",
+  "Art17_fullNames": "Full Name",
+  "Art17_sex": "Sex",
+  "Art17_sexM": "male",
+  "Art17_sexF": "female",
+  "Art17_SocialStatus": "Social Status",
+  "Art17_SocialStatusSingle": "Single",
+  "Art17_SocialStatusMarried": "Married",
+  "Art17_dateOfBirth": "Date Of Birth",
+  "Art17_city": "City",
+  "Art17_country": "Country",
+  "Art17_aboutJob": "About job",
+  "Art17_company": "Company",
+  "Art17_individualWork": "Individual Work",
+  "Art18_language": "Language",
+  "Art18_languageAr": "العربية",
+  "Art18_languageEn": "English",
+  "Art19_about": "Elite of the best designers, programmers\n\nand content marketing We have been working for more than 5 years\n\nof creativity and excellence in the world of entrepreneurship in our\n\npresent time in the local and global worlds",
+  "Art18_communication": "Connect Us",
+  "Art18_Payment": "Payment methods available",
+  "Art20_Tips": "Watin Tips",
+  "Art20_Tips1": "When choosing a trade name, \nbrand names play a major role in the success or \nfailure of brands, so it cannot be tolerated\n by choosing a trade name at random, or \nany name that comes to your mind and you must think \ndeep and organized planning",
+  "Art20_Tips2": "When choosing your company logo that element\nThe human eye has a great and effective effect\nAlso in his memory, more than other items\nsuch as hearing, smelling, touching, etc",
+  "Art20_more": "read more",
+  "Art20_less": "less",
+  "Art21_customerReviews": "Customer Reviews",
+  "Art21_Trusted": "Trusted by thousands of happy customers",
+  "Art21_review": "This text is an example of a text that can \nreplace in the same space, this text has been |\ngenerated from the Arabic text generator\nwhere you can",
+
+  "Art22_LogoDesignT": "Logo Design",
+  "Art22_LogoDesignS": "Designing logos and brands",
+  "Art22_businessIdentityT": "Business Identity",
+  "Art22_businessIdentityS": "Design of Publications and Business Identity",
+  "Art22_socialMDesignsT": "Social Media Designs",
+  "Art22_socialMDesignsS": "Designing logos and brands",
+  "Art22_ProfileSettingT": "Profile Setting",
+  "Art22_ProfileSettingS": "Corporate presentation design",
+  "Art22_cartoonsT": "Cartoons",
+  "Art22_cartoonsS": "Drawing scenes and characters",
+  "Art22_UIUXDesignT": "UI/UX Design",
+  "Art22_UIUXDesignS": "User interface design for websites and apps",
+  "Art23_planMarketingT": "Marketing Plans",
+  "Art23_planMarketingS": "Building marketing plans and strategies",
+  "Art23_SearchT": "Search Engine Optimization",
+  "Art23_SearchS": "Preparation and analysis of keywords",
+  "Art23_SocialMediaT": "Social Media ads",
+  "Art23_SocialMediaS": "Advertising campaigns management on social media",
+  "Art23_MarketingAdviceT": "Marketing Advice",
+  "Art23_MarketingAdviceS": "Project marketing consultancy",
+  "Art23_SocialMediaManagementS": "Social media management",
+  "Art23_WebsiteAnalysisT": "Website Analysis",
+  "Art23_WebsiteAnalysisS": "Website stats and analysis",
+  "Art24_SocialMediaContentT": "Social media content",
+  "Art24_SocialMediaContentS": " Writing content for social media",
+
+  "Art24_ScriptWritingT": "Script writing",
+  "Art24_ScriptWritingS": "Writing scripts for ads and videos",
+  "Art24_bloggingT": "Blogging",
+  "Art24_bloggingS": "Create business blogs and news",
+  "Art24_WritingBusinessArticlesT": "Writing business articles",
+  "Art24_WritingBusinessArticlesS": "Writing articles and reports for business",
+  "Art24_corporateProfileT": "corporate profile",
+  "Art24_corporateProfileS": "Writing company profiles",
+  "Art24_TranslationT": "Translation",
+  "Art24_TranslationS": "Translation in multiple languages",
+
+  "Art25_WhiteboardT": "Whiteboard",
+
+  "Art25_VideoProducerT": "Video Producer",
+
+  "Art25_MotionGraphicsT": "Motion Graphics",
+  "Art25_MotionGraphicsS": "Create a motion graphic video",
+
+
+  "Art25_AudioCommentaryT": "Audio Commentary",
+
+  "Art25_EditVideoT": "Edit Video",
+  "Art25_EditVideoS": "Edit previous video",
+
+  "Art25_introT": "Intro",
+  "Art25_introS": "Producing intros (animating a logo)",
+
+  "Art26_MobileAppsT": "Mobile Apps",
+  "Art26_MobileAppsS": "Smartphone Applications",
+
+  "Art26_WebsitesT": "Websites & electronic",
+  "Art26_WebsitesS": "Programming websites and stores",
+
+  "Art26_IntroductorySitesT": "Introductory Sites",
+  "Art26_IntroductorySitesS": "Creation of corporate and personal websites",
+
+  "Art26_serversT": "Servers",
+  "Art26_serversS": "Setting and modifying website servers",
+
+  "Art26_blogsT": "Blogs",
+  "Art26_blogsS": "Create Blogs",
+
+  "Art26_ModificationsT": "Modifications&improvement",
+
+  "Art26_ModificationsS": "Troubleshooting and repairing",
+
+  "Art28_managementAdviceT": "Management Advice",
+
+  "Art28_businessPlanT": "Business Plan",
+  "Art28_businessPlanS": "Project and business development",
+
+  "Art28_FeasibilityStudyT": "Feasibility Study",
+  "Art28_FeasibilityStudyS": "Feasibility study for start-up projects",
+
+  "Art28_DataEntryT": "Data Entry",
+  "Art28_DataEntryS": "Administrative assistance and data entry",
+
+
+  "Art28_FinancialServicesT": "Financial Services",
+  "Art28_FinancialServicesS": "Accounting audit and financial plans",
+
+  "Art28_scientificResearchT": "Scientific Research",
+
+  "Art29_InteriorDesignT": "Interior Design",
+
+
+  "Art29_ExteriorDesignT": "Exterior Design",
+
+
+  "Art29_workPlansT": "Work Plans",
+  "Art29_workPlansS": "Drawing engineering and architectural plans",
+
+  "Art30_providerT": "We provide outstanding support and efficient solutions",
+
+  "Art30_HelpT": "Help and documentation",
+  "Art30_HelpS": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+
+  "Art30_supportT": "community and support",
+  "Art30_supportS": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+
+  "Art30_DeveloperT": "Developer and Resources",
+  "Art30_DeveloperS": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+
+
+  "Art30_HelpS2": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+  "Art30_supportS2": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+  "Art30_DeveloperS2": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+
+  "Art30_NoSolutionT": "No solution found?",
+  "Art30_NoSolutionS": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+
+  "Art30_helpPage": "Go to the help page",
+
+  "Art30_knowledgeBaseT": "knowledge base",
+  "Art30_knowledgeBaseS": "This text is an example of a text that can\nreplace in the same space, this text is\n generated from the Arabic text generator, where you can\n generate such text or many\ntexts",
+
+  "Art30_helpPage2": "knowledge base",
+
+  "Art30_problemTitle": "problem title",
+
+  "Art30_WriteProblemTitle": "Write the title in short",
+
+  "Art30_ProblemDetails": "Problem details",
+
+  "Art30_writeProblem": "write the problem",
+
+  "Art30_disclaimer": "Very, very important disclaimer: This text is an example of text that can be replaced in the same space. it's done",
+
+  "Art30_sendRequest": "Send Request",
+
+  "Ok": "OK",
+
+  "ChooseTheSection": "Choose The Section",
+
+  "PleaseChooseTheSection": "Please select the section",
+
+  "Art13_NameProject": "Project Name :",
+  "Art13_DepProject": "Department :",
+  "Art13_budgetProject": "Project budget :",
+  "Art13_DateProject": "Starting date :",
+  "Art12_1_titlecard": "Watinplus",
+  "Art12_1_subtitlecard": "Welcomt to Watinplus"
+
+}
